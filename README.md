@@ -1,3 +1,5 @@
+
+
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/163644806?s=400&u=2d4958042fd697ab42895bb4424d38b40243540a&v=4" alt="Profile Picture" width="150" style="border-radius: 50%;">
 </p>
@@ -10,7 +12,7 @@
 Hi, I'm Badhon, a passionate frontend developer who loves turning ideas into responsive, user-friendly web experiences.
 
 ## 🌐Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/BadhonAI) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/BadhonAI) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/BadhonAI) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@BadhonAI) ![Profile Views](https://komarev.com/ghpvc/?username=github&abbreviated=true&label=Github+Profile+Views)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/BadhonAI) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/BadhonAI) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/BadhonAI) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@BadhonAI) ![Profile Views](https://komarev.com/ghpvc/?username=badhonai&abbreviated=true&label=Github+Profile+Views)
 
 
 # Tech Stack
